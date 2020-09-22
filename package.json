@@ -1,0 +1,15 @@
+{
+  "name": "tp-calendar",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/calendar/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hu-vue/tp-calendar.git"
+  },
+  "license": "ISC"
+}
